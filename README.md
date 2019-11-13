@@ -1,6 +1,6 @@
 # cicd-pipeline-train-schedule-jenkins
 
-This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities. And now I'm really just following directions. Well, maybe this time. Missed that Build Trigger checkbox. Well, now nothing's working.
+This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities. And now I'm really just following directions. Well, maybe this time. Missed that Build Trigger checkbox. Well, now nothing's working. 01. 
 
 ## Running the app
 
